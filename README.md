@@ -1,6 +1,5 @@
-# Patrick Perotti 🇧🇷
+# Patrick Perotti
 
-## Hi there :v:
 I'm a full-stack web developer, learning my ways around the JavaScript ecosystem with Node.js and React :computer:
 
  <br/> :office: &nbsp; I'm currently working (from :house:) as a front-end web developer at **Sponte**
